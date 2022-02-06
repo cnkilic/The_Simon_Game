@@ -1,2 +1,2 @@
 # The_Simon_Game
-Game with JS 
+Link for game https://cnkilic.github.io/The_Simon_Game/
