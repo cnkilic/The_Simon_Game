@@ -50,3 +50,9 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.tip{
+  font-family: "Press Start 2P", cursive;
+  font-size: 1rem;
+  color: #fef2bf;
+}
